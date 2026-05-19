@@ -1,3 +1,4 @@
 celery==5.3.0
 cryptography==46.0.4
 pyvmomi==8.0.0
+requests==2.34.2
